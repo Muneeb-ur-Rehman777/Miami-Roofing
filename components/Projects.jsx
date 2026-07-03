@@ -200,7 +200,7 @@ export default function Projects() {
                     <div className="relative rounded-3xl overflow-hidden shadow-xl group">
 
                         <Image
-                            src="/images/projects/after.pnggit init"
+                            src="/images/projects/after.png"
                             alt="After Roof Replacement"
                             width={800}
                             height={550}
